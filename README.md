@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JishnuGVarier
-- 👀 I’m interested in coding,puzzle solving
+- 👀 I’m interested in coding,puzzle solving,web development
 - 🌱 I’m currently learning BTech CS(AI)
-- 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me_ iam from kerala
 
 <!---
