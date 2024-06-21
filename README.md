@@ -19,6 +19,10 @@
 
 [![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JishnuGVarier)](https://github.com/JishnuGVarier/github-readme-stats)
 <br>
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuGVarier&exclude_repo=github-readme-stats,JishnuGVarier.github.io)
 <!---
 JishnuGVarier/JishnuGVarier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
