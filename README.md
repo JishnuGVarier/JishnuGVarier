@@ -14,9 +14,11 @@
     <img align="left" alt="JishnuGVarier | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
   
- <br>
+<br>
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+[![Jishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JishnuGVarier)](https://github.com/JishnuGVarier/github-readme-stats)
+<br>
 <!---
 JishnuGVarier/JishnuGVarier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
