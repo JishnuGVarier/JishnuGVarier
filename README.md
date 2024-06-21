@@ -5,7 +5,7 @@
 <br>
 
   <a href="https://www.linkedin.com/in/jishnu-g-varier-b3513a227/">
-    <img align="left" alt="JishnuGVarier | Linkedin" width="24px" src="<i class="ri-instagram-line"></i>" />
+    <img align="left" alt="JishnuGVarier | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"/>
   </a>
   <a href="https://www.instagram.com/j_g_varier/">
     <img align="left" alt="JishnuGVarier | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
