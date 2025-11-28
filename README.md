@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JishnuGVarier
 - 👀 I’m interested in coding,puzzle solving,web development
-- 🌱 I’m currently learning BTech CS(AI)
+- 🌱 I’m BTech CS(AI) graduate
 - 📫 How to reach me
 <br>
 
